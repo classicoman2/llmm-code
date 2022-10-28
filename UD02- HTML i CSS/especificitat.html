@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Especificitat</title>
+    <style>
+        #roig {
+            color:red;
+        }
+
+        p {
+            color: blue;
+        }
+
+        .verd {
+            color:green;
+        }
+
+        .violeta {
+            color:violet;
+        }
+
+    </style>
+  </head>
+  <body>
+    <p id="roig" class="verd">És de color roig perquè el ID té preferència sobre la CLASSE</p>
+    <p id="blau" class="verd">És de color verd perquè la classe té preferència sobre l'etiqueta</p>
+    <p id="blau" class="verd violeta">És de color violeta perquè en cas d'empat en la especificitat, guanya la regla escrita més tard</p>
+    <p style="color:orange" id="blau" class="violeta">És de color taronja perquè en cas d'empat en la especificitat, guanya la regla escrita més tard</p>
+  </body>
+</html>
