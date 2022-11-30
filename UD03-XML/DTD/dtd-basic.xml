@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listaclientes [
+   <!ELEMENT listaclientes (cliente+)>
+<!ELEMENT cliente (nombre, cif, diasentrega?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cif (#PCDATA)>
+<!ELEMENT diasentrega (#PCDATA)>
+]>
+<listaclientes>
+   <cliente>
+      <nombre>Mercasa</nombre>
+      <cif>5676443</cif>
+   </cliente>
+   <cliente>
+      <nombre>Acer SL</nombre>
+      <cif>5121554</cif>
+   </cliente>
+</listaclientes>
