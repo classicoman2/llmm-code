@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <label>paraula:</label><input type="text" id="paraula" />
+    <br />
+    <button
+      onclick="
+    
+      var paraula = document.getElementById('paraula').value
+      if (paraula.length <= 10) {
+        document.getElementById('missatge').innerHTML = 'Escrigui la paraula una altra vegada'
+      } else {
+        document.getElementById('missatge').innerHTML = ''
+      }
+    
+    ">Comprovar
+    </button>
+    <div id="missatge" style="background-color: bisque"></div>
+  </body>
+</html>

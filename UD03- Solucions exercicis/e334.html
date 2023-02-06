@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <label>Paraula:</label><input type="text" id="paraula" />
+    <br />
+    <button
+      onclick="
+    
+      var paraula = document.getElementById('paraula').value
+      
+        document.getElementById('missatge').innerHTML = paraula.toUpperCase()
+          
+    "
+    >
+      Comprovar
+    </button>
+    <div id="missatge" style="background-color: bisque"></div>
+  </body>
+</html>

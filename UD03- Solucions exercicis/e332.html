@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <label>Palabra Clave:</label><input type="text" id="contrasenya" />
+    <br>
+    <button onclick="
+    
+      var contrasenya = document.getElementById('contrasenya').value
+      if (contrasenya.indexOf('A') == -1) {
+        document.getElementById('missatge').innerHTML = 'Contrasenya Incorrecta'
+      } else {
+        document.getElementById('missatge').innerHTML = 'Contrasenya Correcta'
+      }
+    
+    ">Comprovar</button>
+    <div id="missatge" style="background-color: bisque"></div>
+  </body>
+</html>
