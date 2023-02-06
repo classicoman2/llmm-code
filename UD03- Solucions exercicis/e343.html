@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body></body>
+  <script>
+    numero1 = parseInt(window.prompt("Introdueix un número"))
+    numero2 = parseInt(window.prompt("Introdueix un número"))
+    console.log ( divisioNegativa(numero1, numero2)  )
+
+    function divisioNegativa(num1, num2) {
+      var resultat = num1 / num2
+      var missatge
+      if (resultat < 0) {
+        missatge = "el resultat és negatiu"
+      } else {
+        missatge = "el resultat no és negatiu"
+      }
+      return missatge
+    }
+
+    /*
+      numero1 = parseInt( window.prompt('Introdueix un número') )
+      numero2 = parseInt( window.prompt('Introdueix un número') )
+      resultat = numero1 / numero 2
+      var missatge
+      if (resultat < 0) {
+        missatge = 'el resultat és negatiu'
+      } else {
+        missatge =  'el resultat no és negatiu'
+      }
+      console.log(missatge)
+
+  */
+  </script>
+</html>

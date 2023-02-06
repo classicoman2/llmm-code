@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <label>Introdueix el teu nom:</label>
+    <input id="nom" />
+    <button
+      onclick=" 
+        var name = document.getElementById('nom').value; 
+        if (name.length == 0) {
+            console.log('No has escrit el teu nom')
+            return ''
+        } else {
+            return name
+        }   
+">Comprova Nom
+    </button>
+  </body>
+</html>
