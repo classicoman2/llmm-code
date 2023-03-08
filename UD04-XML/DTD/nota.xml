@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE nota SYSTEM "nota.dtd">
-<nota>
-    <to>Tom</to>
-    <from>Janis</from>
-    <heading>Reminder</heading>
-    <body>See you this weekend!</body>
-</nota>

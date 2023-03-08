@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<llibreria>
+
+    <llibre categoria="cuina">
+        <title idioma="es">Cuina italiana</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </llibre>
+
+    <llibre categoria="infantil">
+        <title idioma="en">The magical Harry Potter</title>
+        <author>J K. Rowling</author>
+        <year>2012</year>
+        <price>28.99</price>
+    </llibre>
+
+    <llibre categoria="cuina">
+        <title idioma="ca">Tumbet mallorqui</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </llibre>
+</llibreria>
