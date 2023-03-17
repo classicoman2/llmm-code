@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="equipo.xsl"?>
+
+<equipo>
+  <jugador>
+    <nombre>Peter</nombre>
+    <apellido>Patterson</apellido>
+    <edad>25</edad>
+    <puntos>1000</puntos>
+  </jugador>
+  <jugador>
+    <nombre>Jane</nombre>
+    <apellido>Doe</apellido>
+    <edad>30</edad>
+    <puntos>800</puntos>
+  </jugador>
+  <jugador>
+    <nombre>Max</nombre>
+    <apellido>Smith</apellido>
+    <edad>27</edad>
+    <puntos>1500</puntos>
+  </jugador>
+  <jugador>
+    <nombre>Emma</nombre>
+    <apellido>Johnson</apellido>
+    <edad>22</edad>
+    <puntos>1200</puntos>
+  </jugador>
+  <jugador>
+    <nombre>Chris</nombre>
+    <apellido>Lee</apellido>
+    <edad>32</edad>
+    <puntos>900</puntos>
+  </jugador>
+</equipo>
+
+ 

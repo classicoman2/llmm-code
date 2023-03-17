@@ -1,6 +1,0 @@
-<!ELEMENT clientes (cliente+)>
-<!ELEMENT cliente (nombre, cif, preferente?, diasentrega?)>
-<!ELEMENT nombre (#PCDATA)>
-<!ELEMENT cif (#PCDATA)>
-<!ELEMENT preferente EMPTY>
-<!ELEMENT diasentrega (#PCDATA)>

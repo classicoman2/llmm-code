@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vendes SYSTEM "vendes.dtd">
+<vendes>
+   <venda>
+      <vendacredit>
+         <quantitat>10.000</quantitat>
+      </vendacredit>
+   </venda>
+   <venda>
+      <vendaimmediata>
+         <quantitat>5</quantitat>
+         <divisa>euros</divisa>
+      </vendaimmediata>
+   </venda>
+</vendes>

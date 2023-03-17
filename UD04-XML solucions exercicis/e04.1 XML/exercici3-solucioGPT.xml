@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receta>
+  <nombre>Tarta salada de verduras y queso</nombre>
+  <ingredientes>
+    <ingrediente>
+      <nombre>Harina de trigo (para la base de masa quebrada)</nombre>
+      <cantidad>200 g</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Mantequilla (para la base de masa quebrada)</nombre>
+      <cantidad>100 g</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Clara de huevo (para la base de masa quebrada)</nombre>
+      <cantidad>60-70 g</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Cebolleta (para el relleno)</nombre>
+      <cantidad>2</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Zanahoria (para el relleno)</nombre>
+      <cantidad>1</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Calabacín (para el relleno)</nombre>
+      <cantidad>0.5</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Queso rallado (para el relleno)</nombre>
+      <cantidad>100 g</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Huevo (para el relleno)</nombre>
+      <cantidad>3</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Nata líquida (para el relleno)</nombre>
+      <cantidad>150 ml</cantidad>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Aceite de oliva virgen extra</nombre>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Sal</nombre>
+    </ingrediente>
+    <ingrediente>
+      <nombre>Pimienta negra molida</nombre>
+    </ingrediente>
+  </ingredientes>
+  <instrucciones>
+    <paso>1. Precalentar el horno a 180°C.</paso>
+    <paso>2. Preparar la masa quebrada mezclando la harina, la mantequilla y la clara de huevo. Amasar hasta obtener una masa uniforme. Forrar un molde con la masa y pinchar la base con un tenedor. Hornear durante 10 minutos.</paso>
+    <paso>3. Pelar y cortar las verduras en cubos pequeños. Saltear las verduras en una sartén con un poco de aceite de oliva virgen extra durante unos 5 minutos.</paso>
+    <paso>4. Batir los huevos en un bol y añadir la nata líquida. Mezclar bien. Añadir el queso rallado y las verduras salteadas. Salpimentar al gusto y mezclar todo.</paso>
+    <paso>5. Verter la mezcla sobre la base de la tarta prehorneada. Hornear durante 30-35 minutos, hasta que la tarta esté dorada y cuajada.</paso>
+    <paso>6. Dejar enfriar antes de servir.</paso>
+  </instrucciones>
+</receta>

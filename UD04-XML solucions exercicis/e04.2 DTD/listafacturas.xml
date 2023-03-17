@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listafacturas SYSTEM "listafacturas.dtd">
+
+<listafacturas>
+   <factura fecha="11-2-2015">
+         <emisor cif="123">
+           <nombre>ACME</nombre>
+         </emisor>
+         <pagador cif="234">
+           <nombre>ACME Inc</nombre>
+           <volumenventas>2000</volumenventas>
+         </pagador>
+         <importe>2500</importe>
+   </factura>
+ </listafacturas>

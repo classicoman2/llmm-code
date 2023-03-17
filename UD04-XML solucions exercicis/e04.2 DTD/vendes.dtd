@@ -1,0 +1,7 @@
+<!ELEMENT vendes (venda+)>
+<!ELEMENT venda (vendacredit|vendaimmediata)>
+<!ELEMENT vendacredit (datapagament?, quantitat)>
+<!ELEMENT vendaimmediata (quantitat, divisa)>
+<!ELEMENT datapagament (#PCDATA)>
+<!ELEMENT quantitat (#PCDATA)>
+<!ELEMENT divisa (#PCDATA)>

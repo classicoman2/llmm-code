@@ -1,0 +1,24 @@
+<!ELEMENT operaciones (operacion+)>
+<!ELEMENT operacion (venta|compra)+>
+
+<!ELEMENT venta (titulosvendidos)>
+<!ELEMENT titulosvendidos (titulo+, cantidad, entregado?, importe)>
+
+
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT entregado EMPTY>
+<!ELEMENT importe (#PCDATA)>
+<!ATTLIST importe moneda CDATA #REQUIRED>
+
+<!ELEMENT compra (tituloscomprados)>
+<!ELEMENT tituloscomprados (titulo+, proveedor, fechacompra)>
+
+<!-- no es pot repetir -->
+<!-- <!ELEMENT titulo (#PCDATA)>  -->
+<!ELEMENT proveedor (#PCDATA)>
+<!ELEMENT fechacompra (dia, mes, año)>
+
+<!ELEMENT dia (#PCDATA)>
+<!ELEMENT mes (#PCDATA)>
+<!ELEMENT año (#PCDATA)>

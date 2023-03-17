@@ -1,0 +1,2 @@
+<!ELEMENT recepta (ingredient+)>
+<!ELEMENT ingredient (nom, quantitat?)>

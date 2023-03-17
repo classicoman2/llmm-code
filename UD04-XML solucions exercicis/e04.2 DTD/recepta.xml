@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recepta SYSTEM "recepta.dtd">
+<recepta>
+   <ingredient>Harina de trigo</ingredient>
+   <quantitat>200 g</quantitat>
+</recepta>
+<recepta>
+   <ingredient>Mantequilla</ingredient>
+   <quantitat>100 g</quantitat>
+</recepta>
+<recepta>
+   <ingredient>Clara de huevo</ingredient>
+   <quantitat>60 g</quantitat>
+</recepta>
+<recepta>
+   <ingredient></ingredient>
+   <quantitat></quantitat>
+</recepta>
+
+
+Cebolleta (para el relleno): 2
+Zanahoria (para el relleno): 1
+Calabacín (para el relleno): 0.5
+Queso rallado (para el relleno): 100 g
+Huevo (para el relleno): 3
+Nata líquida (para el relleno): 150 ml
+Aceite de oliva virgen extra
+Sal
+Pimienta negra molida

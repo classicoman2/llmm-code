@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maquines>
+   <maquina>
+      <processador>AMD Ryzen 7</processador>
+      <ram>32 GB</ram>
+      <disc_dur capacitat="480 GB">Kioxia EXCERIA</disc_dur>
+   </maquina>
+</maquines>

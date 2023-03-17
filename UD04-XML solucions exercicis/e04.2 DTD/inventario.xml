@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario SYSTEM "inventario.dtd">
+
+<inventario>
+   <lapiz marca="Bic"></lapiz>
+   <lapiz marca="Straedtler">
+      <dureza>H2</dureza>
+   </lapiz>
+   <cuaderno precio="1.2">
+      <numhojas>80</numhojas>
+      <estilo>2 rayas</estilo>
+   </cuaderno>
+   <boligrafo>
+      <precio>0.80</precio>
+   </boligrafo>
+   <cuaderno>
+      <numhojas>100</numhojas>
+      <estilo>Cuadriculado</estilo>
+   </cuaderno>
+   <boligrafo>
+      <precio>0.80</precio>
+      <color>Rojo</color>
+   </boligrafo>
+</inventario>

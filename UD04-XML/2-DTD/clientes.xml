@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cartera SYSTEM "clientes.dtd">
+<cartera>
+    <cliente>
+        <nombre>Mercasa</nombre>
+        <cif>5676443</cif>
+        <preferente></preferente>
+        <diasentrega>23-4-12</diasentrega>
+        <vehicle>
+            <moto></moto>
+        </vehicle>
+    </cliente>
+    <cliente>
+        <nombre>Acer SL</nombre>
+        <cif>5121554</cif>
+        <diasentrega>2-4-12</diasentrega>
+     
+        <facturas>
+            <factura>5ip54</factura>
+            <factura>599p94</factura>
+            <factura>50p54</factura>
+        </facturas>
+        <vehicle>
+            <moto></moto>
+        </vehicle>
+   
+    </cliente>
+</cartera>

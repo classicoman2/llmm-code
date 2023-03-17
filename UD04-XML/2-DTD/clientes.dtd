@@ -1,0 +1,13 @@
+<!ELEMENT cartera (cliente+)>
+<!ELEMENT cliente (nombre, cif?, preferente?, diasentrega?, facturas?, vehicle)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cif (#PCDATA)>
+<!ELEMENT preferente EMPTY>
+<!ELEMENT diasentrega (#PCDATA)>
+<!ELEMENT facturas (factura+)>
+<!ELEMENT factura (#PCDATA)>
+<!ELEMENT vehicle (turisme|furgo|moto)>
+
+<!ELEMENT turisme (#PCDATA)>
+<!ELEMENT furgo (#PCDATA)>
+<!ELEMENT moto (#PCDATA)>

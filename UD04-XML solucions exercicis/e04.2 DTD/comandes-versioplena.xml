@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comandes SYSTEM "comandes.dtd">
+
+<comandes>
+   <comanda>
+      <numeroserie>123456</numeroserie>
+      <quantitat>12</quantitat>
+   </comanda>
+</comandes>
